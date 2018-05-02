@@ -1,0 +1,32 @@
+﻿Build started 03/09/2017 21:13:48.
+     1>Project "C:\Users\Thiago\Google Drive\UERJ\IC\nibra\reconhecimento de desenhos\reconhecimento de desenhos.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\boost_1_61_0 /IC:\OpenCV2.4.6\build\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Reconstrucao3DdeDesenhos.cpp
+         Reconstrucao3DdeDesenhos.cpp
+     1>c:\users\thiago\google drive\uerj\ic\nibra\reconhecimento de desenhos\reconstrucao3ddedesenhos.cpp(242): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\thiago\google drive\uerj\ic\nibra\reconhecimento de desenhos\reconstrucao3ddedesenhos.cpp(253): warning C4018: '<' : signed/unsigned mismatch
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"C:\Users\Thiago\Google Drive\UERJ\IC\nibra\Debug\reconhecimento de desenhos.lib" /NOLOGO Debug\Client.obj
+         Debug\ClienteDeClassificacao.obj
+         Debug\Contornos.obj
+         Debug\ContornosParaDesenho.obj
+         Debug\Forma.obj
+         Debug\Filtro.obj
+         Debug\Imagem.obj
+         Debug\ReconhecimentoDeDesenhos.obj
+         Debug\Reconstrucao3DdeDesenhos.obj
+         Debug\RepositorioArquivo.obj
+         Debug\Repositorio.obj
+         Debug\Shader.obj
+         Debug\Teste.obj
+         Debug\Textura.obj
+         Debug\TiposDeDesenho.obj
+         Debug\Triangulate.obj
+         Debug\Video.obj
+     1>Teste.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+         reconhecimento de desenhos.vcxproj -> C:\Users\Thiago\Google Drive\UERJ\IC\nibra\Debug\reconhecimento de desenhos.lib
+     1>Done Building Project "C:\Users\Thiago\Google Drive\UERJ\IC\nibra\reconhecimento de desenhos\reconhecimento de desenhos.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:09.21
