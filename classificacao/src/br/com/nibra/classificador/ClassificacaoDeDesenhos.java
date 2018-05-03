@@ -4,7 +4,7 @@ public class ClassificacaoDeDesenhos {
 
 	public static final String nomeModelo = "tree_v2.model";
 	// TODO alterar diretório para o definitivo
-	public static final String diretorioModelo = "C:/Users/Thiago/Google Drive/UERJ/IC/treino/";
+	public static final String diretorioModelo = "";
 	private Preditor preditor;
 
 	public ClassificacaoDeDesenhos() {
