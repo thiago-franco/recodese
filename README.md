@@ -14,7 +14,7 @@ Este projeto é composto por uma biblioteca de reconhecimento de desenhos em C++
 
 ## Aplicação
 
-Definimos aqui um vocabulário de desenhos reconhecíveis, sendo eles: (a) nuvens, (b) cristais de gelo, (c) fogueiras, (d) muros, (e)buracos e (f) rios. 
+Definimos aqui um vocabulário de desenhos reconhecíveis, sendo eles: (a) nuvens, (b) cristais de gelo, (c) fogueiras, (d) muros, (e) buracos e (f) rios. 
 <br><br>
 <img src="https://github.com/thiago-franco/recodese/blob/master/Imagem9.png" width="320" height="320"/>
 
