@@ -14,4 +14,8 @@ Este projeto é composto por uma biblioteca de reconhecimento de desenhos em C++
 
 ## Aplicação
 
-Definimos aqui um vocabulário de desenhos reconhecíveis, sendo eles: (a) nuvens, (b) cristais de gelo, (c) fogueiras, (d) muros, (e)buracos e (f) rios. Este vocabulário pode ser facilmente extendido ou modificado, bastando ao usuário alimentar o sistema com imagens dos desenhos desejados para a obtenção de suas características através da biblioteca de reconhecimento e, então, usar tais características para elaborar um classificador de sua preferência (árvore de decisão, redes neurais, etc) a ser utilizado no servidor de classificação.
+Definimos aqui um vocabulário de desenhos reconhecíveis, sendo eles: (a) nuvens, (b) cristais de gelo, (c) fogueiras, (d) muros, (e)buracos e (f) rios. 
+<br><br>
+<img src="https://github.com/thiago-franco/recodese/blob/master/Imagem9.png" width="320" height="320"/>
+
+Este vocabulário pode ser facilmente extendido ou modificado, bastando ao usuário alimentar o sistema com imagens dos desenhos desejados para a obtenção de suas características através da biblioteca de reconhecimento e, então, usar tais características para elaborar um classificador de sua preferência (árvore de decisão, redes neurais, etc) a ser utilizado no servidor de classificação.
